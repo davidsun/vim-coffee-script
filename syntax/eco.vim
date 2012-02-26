@@ -59,4 +59,4 @@ hi def link ecoIndentColon  None
 
 let b:current_syntax = 'eco'
 
-" vim: nowrap sw=2 sts=2 ts=8:
+" vim: nowrap sw=4 sts=4 ts=8:
